@@ -13,9 +13,9 @@ A basic LISP interpreter.
 
 ## Usage
 
-otto [-r] [<input-file>]
-options: -r starts a repl
-input-file: LISP file
+otto [-r] [&lt;input-file&gt;]</br>
+options: -r starts a repl</br>
+input-file: LISP file</br>
 
 
 ## Contacting me / contributions
